@@ -1,2 +1,2 @@
 # apm-demo-project
-Implementing login auth API [KAN-1]
+Login auth API [KAN-1] is completed.
